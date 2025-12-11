@@ -79,3 +79,6 @@ Projeto de e-commerce moderno construído com Next.js (App Router), React e Tail
 - Otimização de imagens com `next/image` otimizado em produção.
 - Internacionalização (i18n) e acessibilidade avançada.
 
+## Preview
+![Screenshot do Projeto](screenshot.png)
+
